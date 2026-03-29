@@ -1,0 +1,9 @@
+# app-ads.txt
+# This is a template for app-ads.txt. Replace the placeholder entries with
+# your real ad system records. See: https://iabtechlab.com/app-ads-txt/
+# Format: domain, publisher_id, relationship, [cert_authority_id]
+
+google.com, pub-1592254614519412, DIRECT, f08c47fec0942fa0
+adnetwork.example.com, 123456, RESELLER
+
+# End of file
